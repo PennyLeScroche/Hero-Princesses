@@ -45,6 +45,8 @@ For Example:
 - I wield the mechanical gloves of laser blasting
 - I wield the elegant hammer of flight
 - I wield the shining staff of the moon
+- I wield the cast iron skillet of justice
+- I wield the golden microphone of truth
 
 Set your mount and item both to d6, or one to d4 and one to d8
 
