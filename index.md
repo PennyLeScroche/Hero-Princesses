@@ -16,7 +16,7 @@ Manners  | d10 | d4  | d4  | d4  | d6  | d4  | d6  | d8  | d8  | d6
 
 ### Aspects:
 
-I am the <adjective>, <adjective> prince(ss) of <thing>
+I am the [adjective], [adjective] prince(ss) of [thing]
 
 For Example:
 - I am the Strong, Tall Princess of Sand
@@ -28,7 +28,7 @@ Set your Aspects all to d6, or to d4, d6, and d8
 
 ### Assets:
 
-I ride a <adjective> <mount> of <thing>
+I ride a [adjective] [mount] of [thing]
 
 For Example:
 
@@ -37,7 +37,7 @@ For Example:
 - I ride a strong salamander of fire
 - I ride a cunning unicorn of darkness
 
-I wield the <adjective> <item> of <thing>
+I wield the [adjective] [item] of [thing]
 
 For Example:
 
@@ -52,7 +52,7 @@ Set your mount and item both to d6, or one to d4 and one to d8
 
 ### Struggle:
 
-I sometimes struggle with <thing>
+I sometimes struggle with [thing]
 
 For Example:
 
