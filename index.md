@@ -8,11 +8,11 @@ A Distortion Dice game targeted at kids. The 3 stats are Might, Magic, and Manne
 
 Roll or choose your stats
 
-D10      | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10 
- :-----: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-:
-Might    | d4  | d4  | d10 | d8  | d8  | d6  | d4  | d6  | d4  | d6
-Magic    | d4  | d10 | d4  | d6  | d4  | d8  | d8  | d4  | d6  | d6
-Manners  | d10 | d4  | d4  | d4  | d6  | d4  | d6  | d8  | d8  | d6
+D12      | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  | 11  | 12
+ :-----: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-:
+Might    | d4  | d6  | d4  | d6  | d10 | d10 | d8  | d6  | d6  | d8  | d8  | d4
+Magic    | d6  | d4  | d10 | d10 | d6  | d4  | d6  | d8  | d6  | d8  | d4  | d8
+Manners  | d10 | d10 | d6  | d4  | d4  | d6  | d6  | d6  | d8  | d4  | d8  | d8
 
 ### Aspects:
 
