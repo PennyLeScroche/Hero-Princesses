@@ -48,7 +48,7 @@ For Example:
 - I wield the cast iron skillet of justice
 - I wield the golden microphone of truth
 
-Set your mount and item both to d6, or one to d4 and one to d8
+Set either your mount or item to a d8, and the other to a d6
 
 ### Struggle:
 
