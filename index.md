@@ -2,6 +2,8 @@
 
 A Distortion Dice game targeted at kids. The 3 stats are Might, Magic, and Manners. Aspects will be what kind of princess you are, Assets will be your mount (dragon, horse, unicorn, griffon, etc) and what you wield (staff, scepter, sword, axe, etc).
 
+This is a game about magical princesses (or princes, or dukes, or whatever title you prefer) who face challenges and must save the day. It is intended to have a fantasy setting that you can build with your players, and it's inspired by Perils & Princesses, Princess World, My Little Pony: Friendship is Magic, and the many works of fiction about princesses in challenging situations.
+
 ## Character Creation
 
 ### Stats
