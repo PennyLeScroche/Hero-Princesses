@@ -4,6 +4,8 @@ A Distortion Dice game targeted at kids. The 3 stats are Might, Magic, and Manne
 
 This is a game about magical princesses (or princes, or dukes, or whatever title you prefer) who face challenges and must save the day. It is intended to have a fantasy setting that you can build with your players, and it's inspired by Perils & Princesses, Princess World, My Little Pony: Friendship is Magic, and the many works of fiction about princesses in challenging situations.
 
+As a distortion dice game, this is based on the same system used in [Distorted Domains](https://pennylescroche.github.io/Distorted-Domains). Please look at Distorted Domains if there are any questions on how the system works or how to run the game
+
 ## Character Creation
 
 ### Stats
