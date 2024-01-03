@@ -76,3 +76,17 @@ Set your struggle to d6
 First, select the die for the stat that you want to use for your action. Then add the dice for any assets or aspects that can be used. Roll them and keep only the highest die.
 The Narrator will select the harm die that matches your stat (if you use Might they will use the Might harm die). Then the narrator will add your struggle die it it makes sense, and finally the narrator will add a die for the challenge you are up against. 
 The narrator rolls and also takes the highest die. If your die is higher than the narrators, you succeed, if your die is 5 or more, you get a success with a bonus, if you tie, you get a partial success, and if your die is lower, you get a failure.
+
+
+## Setting
+
+The setting for Plucky Princesses is implied to be whimsical and magical, but ultimately the details are up to you. Maybe all the characters are talking animals, maybe you can explore a candy cane forest, perhaps there's a snowy mountain where it always storms.
+
+Here are some questions to help you figure it out.
+- Where are the player characters from?
+- What does that place look like?
+- Who are some friends of the princesses?
+- Who doesnt like the princesses?
+- What are some are some areas nearby?
+- What are some things to do for fun?
+- What dangers lurk here?
