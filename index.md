@@ -90,3 +90,21 @@ Here are some questions to help you figure it out.
 - What are some are some areas nearby?
 - What are some things to do for fun?
 - What dangers lurk here?
+- What rumors have you heard?
+
+Playsets:
+
+- Snackland
+  - Candy people
+  - ice cream sundae mountain
+  - Cotton Candy forest
+  - Hot fudge pits  
+- Pet Palace
+  - Cat dog and other pet characters
+  - Buildings that are cat trees and terrariums
+  - Many different biomes right next to each other
+- Arcane Academy
+  - Magical School setting
+  - Fantasy race students and teachers
+  - Familiars
+  - Cauldrons, Candles, and Crystals everywhere
