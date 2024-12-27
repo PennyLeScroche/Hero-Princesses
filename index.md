@@ -1,14 +1,18 @@
-# Plucky Princesses
+# Prismatic Princesses
 
 A Distortion Dice game targeted at kids. The 3 stats are Might, Magic, and Manners. Aspects will be what kind of princess you are, Assets will be your mount (dragon, horse, unicorn, griffon, etc) and what you wield (staff, scepter, sword, axe, etc).
 
-This is a game about magical princesses (or princes, or dukes, or whatever title you prefer) who face challenges and must save the day. It is intended to have a fantasy setting that you can build with your players, and it's inspired by Perils & Princesses, Princess World, My Little Pony: Friendship is Magic, and the many works of fiction about princesses in challenging situations.
+This is a game about magical princesses (or princes, or dukes, or whatever title you prefer) who face challenges and must save the day. It is intended to have a fantasy setting that you can build with your players, and it's inspired by Perils & Princesses, Princess World, My Little Pony: Friendship is Magic, She-Ra and the Princesses of Power, Sailor Moon, Miraculous and many other works of fiction about magical girls, or princesses in challenging situations.
 
 There is a [Google Sheets Character Keeper](https://docs.google.com/spreadsheets/d/1DIalMaBtRqMXCNJUHo8jZ_xfP-EjSXnuGzIGj_Hlg7A/edit?usp=sharing) available if you would like to keep track of your characters digitally
 
 As a distortion dice game, this is based on the same system used in [Distorted Domains](https://pennylescroche.github.io/Distorted-Domains). Please look at Distorted Domains if there are any questions on how the system works or how to run the game
 
-## Character Creation
+Prismatic Princesses is a game about powerful princesses overcoming problems. Each princess will have a magic of some kind, usually defined by a theme related to their color. These things can be elemental, a fundamental aspect of the universe, or perhaps a more subtle kind of magic, such as dance or feats of strength. The game has no defined setting, aside from featuring a number of Princesses who have been gifted with magical power, and a responsibility to protect others, and lead them through darkness into the light. Each Princess wields their magic, as well as a powerful artifact, and has the help of a familiar that enhances or compliments their own abilities. While there is an included science fantasy setting, there is also a guide to creating your own setting as a group.
+
+# Characters
+
+The player characters in Prismatic Princesses are refered to as Princesses. However, they do not specifically have to be a princess. Princesses in this game are more of an idea than a gendered term, or a title of royalty. A Princess is someone blessed with a magical power related to a specific color. A Princess is someone who fights for good, who protects others, who believes in compassion, and wants to make the world a better place. The actual title of your Princess could be Princess, another royal title like Duchess or Prince, Something made up like Light Bringers, or maybe each Princess has a super-hero like name.
 
 ### Stats
 
@@ -34,7 +38,7 @@ Set your Aspects all to d6, or to d4, d6, and d8
 
 ### Assets:
 
-I ride a [adjective] [mount] of [thing]
+My Companion is a [adjective] [object/noun] of [thing]
 
 For Example:
 
@@ -42,6 +46,7 @@ For Example:
 - I ride a fierce griffon of wind
 - I ride a strong salamander of fire
 - I ride a cunning unicorn of darkness
+
 
 I wield the [adjective] [item] of [thing]
 
