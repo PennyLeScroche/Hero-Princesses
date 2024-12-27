@@ -76,14 +76,20 @@ For Example:
 
 Set your struggle to d6
 
-## Actions
+# Playing the Game
 
 First, select the die for the stat that you want to use for your action. Then add the dice for any assets or aspects that can be used. Roll them and keep only the highest die.
 The Narrator will select the harm die that matches your stat (if you use Might they will use the Might harm die). Then the narrator will add your struggle die it it makes sense, and finally the narrator will add a die for the challenge you are up against. 
 The narrator rolls and also takes the highest die. If your die is higher than the narrators, you succeed, if your die is 5 or more, you get a success with a bonus, if you tie, you get a partial success, and if your die is lower, you get a failure.
 
 
-## Setting
+# Setting
+
+## Iridesia
+
+The included setting of Prismatic Princesses is the world of Iridesia. A land once occupied by a powerful people who abandoned this planet, leaving behind advanced technology that few can even begin to understand. Iridesia is comprised of many lands of varying colors, and is currently suffering from a corruption of shards that are alien in nature. These shards absorb the color out of things near them, corrupting them, and throwing off the harmony of the world. This creates violence and chaos near where the shards have landed.
+
+## Collaborating Setting Creation
 
 The setting for Plucky Princesses is implied to be whimsical and magical, but ultimately the details are up to you. Maybe all the characters are talking animals, maybe you can explore a candy cane forest, perhaps there's a snowy mountain where it always storms.
 
@@ -105,11 +111,11 @@ Playsets:
   - Cotton Candy forest
   - Hot fudge pits  
 - Pet Palace
-  - Cat dog and other pet characters
+  - Cat, dog, and other pet characters
   - Buildings that are cat trees and terrariums
   - Many different biomes right next to each other
 - Arcane Academy
   - Magical School setting
-  - Fantasy race students and teachers
+  - Fantasy race students and teachers, such as elves, lizardpeople, faeries, etc.
   - Familiars
   - Cauldrons, Candles, and Crystals everywhere
