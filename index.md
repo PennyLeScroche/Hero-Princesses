@@ -8,11 +8,13 @@ There is a [Google Sheets Character Keeper](https://docs.google.com/spreadsheets
 
 As a distortion dice game, this is based on the same system used in [Distorted Domains](https://pennylescroche.github.io/Distorted-Domains). Please look at Distorted Domains if there are any questions on how the system works or how to run the game
 
-Prismatic Princesses is a game about powerful princesses overcoming problems. Each princess will have a magic of some kind, usually defined by a theme related to their color. These things can be elemental, a fundamental aspect of the universe, or perhaps a more subtle kind of magic, such as dance or feats of strength. The game has no defined setting, aside from featuring a number of Princesses who have been gifted with magical power, and a responsibility to protect others, and lead them through darkness into the light. Each Princess wields their magic, as well as a powerful artifact, and has the help of a familiar that enhances or compliments their own abilities. While there is an included science fantasy setting, there is also a guide to creating your own setting as a group.
+Prismatic Princesses is a game about powerful princesses overcoming problems. Each princess will have a magic of some kind, usually defined by a theme related to their color. These things can be elemental, a fundamental aspect of the universe, or perhaps a more subtle kind of magic, such as dance or feats of strength. The game has no defined setting, aside from featuring a number of Princesses who have been gifted with magical power, and a responsibility to protect others, and lead them through darkness into the light. Each Princess wields their magic, as well as a powerful artifact, and has the help of a companion that enhances or compliments their own abilities. While there is an included science fantasy setting, there is also a guide to creating your own setting as a group.
 
 # Characters
 
 The player characters in Prismatic Princesses are refered to as Princesses. However, they do not specifically have to be a princess. Princesses in this game are more of an idea than a gendered term, or a title of royalty. A Princess is someone blessed with a magical power related to a specific color. A Princess is someone who fights for good, who protects others, who believes in compassion, and wants to make the world a better place. The actual title of your Princess could be Princess, another royal title like Duchess or Prince, Something made up like Light Bringers, or maybe each Princess has a super-hero like name.
+
+Each Princess wields a notable magical artifact of some kind that helps them channel their power. They also have a companion in the form of a mount, familiar, or spiritual being.
 
 ### Stats
 
@@ -42,10 +44,14 @@ My Companion is a [adjective] [object/noun] of [thing]
 
 For Example:
 
-- I ride a tiny dragon of ice
-- I ride a fierce griffon of wind
-- I ride a strong salamander of fire
-- I ride a cunning unicorn of darkness
+- My companion is a tiny dragon of ice
+- My companion is a fierce griffon of wind
+- My companion is a strong salamander of fire
+- My companion is a cunning unicorn of darkness
+- My companion is a wise ghost of the woods
+- My companion is a swift raven of perception
+- My companion is a sturdy tortoise of forging
+- My companion is a spirit cat of shapeshifting
 
 
 I wield the [adjective] [item] of [thing]
@@ -59,7 +65,7 @@ For Example:
 - I wield the cast iron skillet of justice
 - I wield the golden microphone of truth
 
-Set either your mount or item to a d8, and the other to a d6
+Set either your companion or item to a d8, and the other to a d6
 
 ### Struggle:
 
