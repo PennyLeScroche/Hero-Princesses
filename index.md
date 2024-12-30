@@ -121,7 +121,7 @@ Here are some questions to help you figure it out.
 - What dangers lurk here?
 - What rumors have you heard?
 
-Playsets:
+Other Potential Settings:
 
 - Snackland
   - Candy people
