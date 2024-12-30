@@ -64,12 +64,14 @@ For Example:
 - I wield the shining staff of the moon
 - I wield the cast iron skillet of justice
 - I wield the golden microphone of truth
+- I wield the glowing perfume bottle of protection
+- I wield the bedazzled baton of twirling
 
 Set either your companion or item to a d8, and the other to a d6
 
 ### Struggle:
 
-I sometimes struggle with [thing]
+I sometimes struggle with [thing]. You get 2 Struggles
 
 For Example:
 
@@ -79,8 +81,10 @@ For Example:
 - I sometimes struggle with a curse that slowly turns me to stone
 - I sometimes struggle with my magic backfiring on me
 - I sometimes struggle with wanting to have all the gems in the kingdom
+- I sometimes struggle with pushing myself too hard to please other
+- I sometimes struggle with staying motivated when something goes wrong
 
-Set your struggle to d6
+Set both of your struggles to d6
 
 # Playing the Game
 
@@ -93,7 +97,7 @@ The narrator rolls and also takes the highest die. If your die is higher than th
 
 ## Iridesia
 
-The included setting of Prismatic Princesses is the world of Iridesia. A land once occupied by a powerful people who abandoned this planet, leaving behind advanced technology that few can even begin to understand. Iridesia is comprised of many lands of varying colors, and is currently suffering from a corruption of Null Shards that are alien in nature. These shards absorb the color out of things near them, corrupting them, and throwing off the harmony of the world. This creates violence and chaos near where the shards have landed.
+The included setting of Prismatic Princesses is the world of Iridesia. A land once occupied by a powerful people who abandoned this planet known as the Lost Ones. They left behind advanced technology that few can even begin to understand. Iridesia is comprised of many lands of varying colors, and is currently suffering from a corruption of Null Shards. These shards absorb the color out of things near them, corrupting them, and throwing off the harmony of the world. This creates violence and chaos near where the shards have landed. The source of the shards is unknown, but many think it may be related to the Lost Ones.
 
 There is a princess for each color, the number of colors and which colors are included depends on your table. Each color will be a different nation with different customs, including how they choose their princess, and what that princess's title is. 
 
@@ -101,7 +105,7 @@ In the center where all of the colors meet is the Rainbow City. The Rainbow City
 
 Occasionally there are legacy princesses, with the title being carried by a family through the generations. Potential princesses from these families still have to go through the regular candidate and training process, though they are generally seen as favored to become a princess, which can come with its own challenges.
 
-Prismatic Princesses can tell a variety of different magical girl stories. Such as fighting off the effects of the Null Shards, and the people who wish to use the power of them. Or maybe dealing with the pressures of trying to become a princess and attending the Princess Academy. Sometimes it might be just helping a village put on a festival or rebuild after it was damaged through the effects of a Null shard.
+Prismatic Princesses can tell a variety of different magical girl stories. Such as fighting off the effects of the Null Shards, and the people who wish to use the power of them. Or maybe dealing with the pressures of trying to become a princess and attending the Princess Academy. Sometimes it might be just helping a village put on a festival or rebuild after it was damaged through the effects of a Null shard. Other times it could be complications from Lost Ones technology being awakened.
 
 ## Collaborating Setting Creation
 
