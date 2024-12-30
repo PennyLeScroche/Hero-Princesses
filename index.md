@@ -87,7 +87,15 @@ The narrator rolls and also takes the highest die. If your die is higher than th
 
 ## Iridesia
 
-The included setting of Prismatic Princesses is the world of Iridesia. A land once occupied by a powerful people who abandoned this planet, leaving behind advanced technology that few can even begin to understand. Iridesia is comprised of many lands of varying colors, and is currently suffering from a corruption of shards that are alien in nature. These shards absorb the color out of things near them, corrupting them, and throwing off the harmony of the world. This creates violence and chaos near where the shards have landed.
+The included setting of Prismatic Princesses is the world of Iridesia. A land once occupied by a powerful people who abandoned this planet, leaving behind advanced technology that few can even begin to understand. Iridesia is comprised of many lands of varying colors, and is currently suffering from a corruption of Null Shards that are alien in nature. These shards absorb the color out of things near them, corrupting them, and throwing off the harmony of the world. This creates violence and chaos near where the shards have landed.
+
+There is a princess for each color, the number of colors and which colors are included depends on your table. Each color will be a different nation with different customs, including how they choose their princess, and what that princess's title is. 
+
+In the center where all of the colors meet is the Rainbow City. The Rainbow City is home to the Princess Academy, where princess candidates are sent to train in the ways of being a princess. How these candidates are selected will vary by color, with some of them being appointed by leadership, some voted in, and some having to compete in some sort of trial.
+
+Occasionally there are legacy princesses, with the title being carried by a family through the generations. Potential princesses from these families still have to go through the regular candidate and training process, though they are generally seen as favored to become a princess, which can come with its own challenges.
+
+Prismatic Princesses can tell a variety of different magical girl stories. Such as fighting off the effects of the Null Shards, and the people who wish to use the power of them. Or maybe dealing with the pressures of trying to become a princess and attending the Princess Academy. Sometimes it might be just helping a village put on a festival or rebuild after it was damaged through the effects of a Null shard.
 
 ## Collaborating Setting Creation
 
