@@ -22,21 +22,30 @@ Roll or choose your stats
 
 D12      | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  | 11  | 12
  :-----: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-:
-Might    | d4  | d6  | d4  | d6  | d10 | d10 | d8  | d6  | d6  | d8  | d8  | d4
-Magic    | d6  | d4  | d10 | d10 | d6  | d4  | d6  | d8  | d6  | d8  | d4  | d8
-Manners  | d10 | d10 | d6  | d4  | d4  | d6  | d6  | d6  | d8  | d4  | d8  | d8
+~~Might~~ Courage    | d4  | d6  | d4  | d6  | d10 | d10 | d8  | d6  | d6  | d8  | d8  | d4
+~~Magic~~ Clever    | d6  | d4  | d10 | d10 | d6  | d4  | d6  | d8  | d6  | d8  | d4  | d8
+~~Manners~~ Caring  | d10 | d10 | d6  | d4  | d4  | d6  | d6  | d6  | d8  | d4  | d8  | d8
+
+New Stats: Courage, Clever, Caring. Harm: Afraid, Addled, Alone
+
+Courage is used to be brave in the face of danger, Clever is used to figure out complex problems and see patterns, Caring is used to connect to others. All three can be used in a variety of situations, you might inspire an ally with your courage, you might figure out someone is lying to you with your Clever, you might stop someone's rampage with Caring. These stats aren't just what your character is capable of, they're also the motivation and approach behind the action.
+
+There is no stat for magic because every character has magic of some kind. It's more important how and why they're using their magic.
 
 ### Aspects:
 
-I am the [adjective], [adjective] prince(ss) of [thing]
-
-For Example:
-- I am the Strong, Tall Princess of Sand
-- I am the Smart, Beatiful Prince of Frogs
-- I am the Fast, Flexible Empress of Ice
-- I am the Small, Tricky Duke of chefs
+~~I am the [adjective], [adjective] prince(ss) of [thing]~~
+~~For Example:~~
+- ~~I am the Strong, Tall Princess of Sand~~
+- ~~I am the Smart, Beatiful Prince of Frogs~~
+- ~~I am the Fast, Flexible Empress of Ice~~
+- ~~I am the Small, Tricky Duke of chefs~~
 
 Set your Aspects all to d6, or to d4, d6, and d8
+
+I am the [Title] of [Color], who wields the power of [Theme]
+Before becoming a princess I was a [Job] in [Location]
+People see me as [Physical Attribute] and [Personality]
 
 ### Assets:
 
@@ -76,12 +85,12 @@ I sometimes struggle with [thing]. You get 2 Struggles
 For Example:
 
 - I sometimes struggle with math
-- I sometimes struggle with not being the best
-- I sometimes struggle with my hands not working
-- I sometimes struggle with a curse that slowly turns me to stone
+- I sometimes struggle with not being the center of attention
+- I sometimes struggle with my hands shaking
+- I sometimes struggle with hurting people in pursuit of my goals
 - I sometimes struggle with my magic backfiring on me
-- I sometimes struggle with wanting to have all the gems in the kingdom
-- I sometimes struggle with pushing myself too hard to please other
+- I sometimes struggle with a greed for gemstones
+- I sometimes struggle with pushing myself too hard to please others
 - I sometimes struggle with staying motivated when something goes wrong
 
 Set both of your struggles to d6
