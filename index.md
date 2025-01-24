@@ -24,9 +24,9 @@ D12      | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  | 11  | 12
  :-----: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-:
 ~~Might~~ Courage    | d4  | d6  | d4  | d6  | d10 | d10 | d8  | d6  | d6  | d8  | d8  | d4
 ~~Magic~~ Clever    | d6  | d4  | d10 | d10 | d6  | d4  | d6  | d8  | d6  | d8  | d4  | d8
-~~Manners~~ Caring  | d10 | d10 | d6  | d4  | d4  | d6  | d6  | d6  | d8  | d4  | d8  | d8
+~~Manners~~ Care  | d10 | d10 | d6  | d4  | d4  | d6  | d6  | d6  | d8  | d4  | d8  | d8
 
-New Stats: Courage, Clever, Caring. Harm: Afraid, Addled, Alone
+New Stats: Courage, Clever, Care. Harm: Afraid, Addled, Alone
 
 Courage is used to be brave in the face of danger, Clever is used to figure out complex problems and see patterns, Caring is used to connect to others. All three can be used in a variety of situations, you might inspire an ally with your courage, you might figure out someone is lying to you with your Clever, you might stop someone's rampage with Caring. These stats aren't just what your character is capable of, they're also the motivation and approach behind the action.
 
@@ -43,9 +43,9 @@ There is no stat for magic because every character has magic of some kind. It's 
 
 Set your Aspects all to d6, or to d4, d6, and d8
 
-I am the [Title] of [Color], who wields the power of [Theme]
-Before becoming a princess I was a [Job] in [Location]
-People see me as [Physical Attribute] and [Personality]
+- I am the [Title] of [Color], who wields the power of [Theme]
+- Before becoming a princess I was a [Job] in [Location]
+- People see me as [Physical Attribute] and [Personality]
 
 ### Assets:
 
